@@ -7,6 +7,7 @@ import requests
 from requests import utils
 
 from utils import check
+import re
 
 
 class Ysf(object):
