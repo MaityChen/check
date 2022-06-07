@@ -368,3 +368,11 @@ cookie = "JSESSIONID=xxxxxx; __yadk_uid=xxxxxx; OUTFOX_SEARCH_USER_ID_NCOO=xxxxx
 # http://bbs.zhiyoo.net cookie
 [[ZHIYOO]]
 cookie = "ikdQ_9242_saltkey=xxxxxx; ikdQ_9242_lastvisit=xxxxxx; ikdQ_9242_onlineusernum=xxxxxx; ikdQ_9242_sendmail=1; ikdQ_9242_seccode=xxxxxx; ikdQ_9242_ulastactivity=xxxxxx; ikdQ_9242_auth=xxxxxx; ikdQ_9242_connect_is_bind=xxxxxx; ikdQ_9242_nofavfid=xxxxxx; ikdQ_9242_checkpm=xxxxxx; ikdQ_9242_noticeTitle=1; ikdQ_9242_sid=xxxxxx; ikdQ_9242_lip=xxxxxx; ikdQ_9242_lastact=xxxxxx"
+
+# 云闪付【APP】
+[[YSF]]
+cookie = "sensorsdata2015jssdkcross=xxxxxx;"
+
+# 哈啰单车【APP】
+[[HLDC]]
+token = "xxxxxx"
